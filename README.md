@@ -1,2 +1,2 @@
 * This is repository for Python study code. Anyone can use this as their python study.
-* This is for GUI branch
+* This is for Text branch 
